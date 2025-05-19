@@ -1,8 +1,0 @@
-.wrapper {
-    background-color: rgb(15, 25, 35);
-    box-sizing: border-box;
-}
-
-div > svg {
-    fill: white;
-}
